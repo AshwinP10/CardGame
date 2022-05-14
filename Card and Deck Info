@@ -1,0 +1,38 @@
+Brainstorm:
+
+Card (52-card A - K, Spade Diamond Heart Club)
+  Attributes (adjectives)
+  - color 
+  - dimensions 
+  !- Value -> face (A 2 3 4 ... J Q K)
+  !- Suit (Spade Diamond...)
+  - Thickness
+  - Material
+  - 1 sided
+  - Back - picture?
+  Behaviors (verbs)
+  - Bend/fold
+  - Stack
+  - Flip
+  - Throw
+  - Rotate
+
+Deck
+  Attributes (adjectives)
+  !- CARDS
+  - Number of cards
+  - Shuffle?
+  - Order?
+  Behaviors (verbs)
+  - Shuffle
+  - Order/sort
+  - Draw
+  - Remove
+  - Deal
+  - Arrange 
+  - Insert cards back in the Deck
+  - Fan out cards
+
+
+Player
+  Attributes
